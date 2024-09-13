@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string name="view_fragment">Overall Income/Expense</string>
+    <string name="chart_fragment">Chart Analysis</string>
+    <string name="more_fragment">More</string>
+    <string name="money_fragment">Expense Tracker</string>
+
+    <string name="inout_Page">Income/Expense:</string>
+    <string name="money_Page">Amount:</string>
+    <string name="class_Page">Type:</string>
+    <string name="text_Page">Remarks:</string>
+
+    <string name="inout_addPage">Income/Expense</string>
+    <string name="money_addPage">Amount</string>
+    <string name="class_addPage">Type</string>
+    <string name="text_addPage">Remarks</string>
+    <string name="date_addPage">Date</string>
+    <string name="to_addPage">To</string>
+    <string name="no_addPage">Cancel</string>
+    <string name="save_addPage">Add</string>
+
+    <string name="in_view">Total Income</string>
+    <string name="out_view">Total Expense</string>
+
+    <string name="title_more">Other Options</string>
+    <string name="language_more">Switch Language</string>
+
+    <string-array name="spinner_options1">
+        <item>Income</item>
+        <item>Expense</item>
+    </string-array>
+
+    <string-array name="spinner_options2">
+        <item>Food</item>
+        <item>Shopping</item>
+        <item>Investment</item>
+        <item>Transportation</item>
+        <item>Work</item>
+        <item>Other</item>
+    </string-array>
+</resources>

@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string name="view_fragment">總收支</string>
+    <string name="chart_fragment">圖表分析</string>
+    <string name="more_fragment">更多</string>
+    <string name="money_fragment">記帳本</string>
+
+    <string name="inout_Page">收入/支出:</string>
+    <string name="money_Page">金額:</string>
+    <string name="class_Page">類型:</string>
+    <string name="text_Page">備註:</string>
+
+    <string name="inout_addPage">收入/支出</string>
+    <string name="money_addPage">金額</string>
+    <string name="class_addPage">類型</string>
+    <string name="text_addPage">備註</string>
+    <string name="date_addPage">日期</string>
+    <string name="to_addPage">到</string>
+    <string name="no_addPage">取消</string>
+    <string name="save_addPage">新增</string>
+
+    <string name="in_view">總收入</string>
+    <string name="out_view">總支出</string>
+
+    <string name="title_more">其他選項</string>
+    <string name="language_more">切換語言</string>
+
+    <string-array name="spinner_options1">
+        <item>收入</item>
+        <item>支出</item>
+    </string-array>
+
+    <string-array name="spinner_options2">
+        <item>飲食</item>
+        <item>購物</item>
+        <item>投資</item>
+        <item>車費</item>
+        <item>工作</item>
+        <item>其他</item>
+    </string-array>
+</resources>

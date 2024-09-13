@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string name="view_fragment">총 수입</string>
+    <string name="chart_fragment">그래프 분석</string>
+    <string name="more_fragment">더보기</string>
+    <string name="money_fragment">가계부</string>
+
+    <string name="inout_Page">수입/지출:</string>
+    <string name="money_Page">금액:</string>
+    <string name="class_Page">유형:</string>
+    <string name="text_Page">비고:</string>
+
+    <string name="inout_addPage">수입/지출</string>
+    <string name="money_addPage">금액</string>
+    <string name="class_addPage">유형</string>
+    <string name="text_addPage">비고</string>
+    <string name="date_addPage">날짜</string>
+    <string name="to_addPage">to</string>
+    <string name="no_addPage">취소</string>
+    <string name="save_addPage">추가</string>
+
+    <string name="in_view">총 수입</string>
+    <string name="out_view">총 지출</string>
+
+    <string name="title_more">다른 옵션</string>
+    <string name="language_more">언어 변경</string>
+
+    <string-array name="spinner_options1">
+        <item>수입</item>
+        <item>지출</item>
+    </string-array>
+
+    <string-array name="spinner_options2">
+        <item>식사</item>
+        <item>쇼핑</item>
+        <item>투자</item>
+        <item>차비</item>
+        <item>작업</item>
+        <item>기타</item>
+    </string-array>
+</resources>

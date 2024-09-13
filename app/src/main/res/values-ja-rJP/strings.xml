@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">finalProject</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string name="view_fragment">総収支</string>
+    <string name="chart_fragment">チャート分析</string>
+    <string name="more_fragment">もっと</string>
+    <string name="money_fragment">記帳</string>
+
+    <string name="inout_Page">収支：</string>
+    <string name="money_Page">金額：</string>
+    <string name="class_Page">タイプ：</string>
+    <string name="text_Page">備考：</string>
+
+    <string name="inout_addPage">収支</string>
+    <string name="money_addPage">金額</string>
+    <string name="class_addPage">タイプ</string>
+    <string name="text_addPage">備考</string>
+    <string name="date_addPage">日付</string>
+    <string name="to_addPage">〜</string>
+    <string name="no_addPage">キャンセル</string>
+    <string name="save_addPage">追加</string>
+
+    <string name="in_view">総収入</string>
+    <string name="out_view">総支出</string>
+
+    <string name="title_more">その他のオプション</string>
+    <string name="language_more">言語切り替え</string>
+
+    <string-array name="spinner_options1">
+        <item>収入</item>
+        <item>支出</item>
+    </string-array>
+
+    <string-array name="spinner_options2">
+        <item>食事</item>
+        <item>ショッピング</item>
+        <item>投資</item>
+        <item>車の費用</item>
+        <item>仕事</item>
+        <item>その他</item>
+    </string-array>
+</resources>
